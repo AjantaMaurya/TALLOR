@@ -1,4 +1,5 @@
 tqdm
+python==3.10.0
 torch==2.0.0
 snorkel==0.9.7
 scipy==1.7.0
