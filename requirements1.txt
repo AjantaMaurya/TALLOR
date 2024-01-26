@@ -1,0 +1,6 @@
+tqdm
+torch==2.0.0
+snorkel==0.9.7
+scipy==1.7.0
+transformers==4.8.2
+scikit-learn
